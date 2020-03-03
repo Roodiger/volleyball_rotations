@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "497889856946",
+    "firebase_url": "https://volleyball-rotations-26f04.firebaseio.com",
+    "project_id": "volleyball-rotations-26f04",
+    "storage_bucket": "volleyball-rotations-26f04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497889856946:android:7dec43f3f5e6c38a96a8ab",
+        "android_client_info": {
+          "package_name": "co.rudywolsfeld.volleyball_rotations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497889856946-i4eki82tpdr1vkv7j6tk6birglcq47gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt91-3B8BTJ0f6x-JMVdZhimjzOkYpqnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497889856946-i4eki82tpdr1vkv7j6tk6birglcq47gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
